@@ -1,0 +1,14 @@
+# CSS-for-EZ-Home-Dynamik
+
+#ez-home-top-2 {
+	background: #A9C98A;
+	border-bottom: 4px solid #1670A2;
+	border-left: 4px solid #1670A2;
+
+	-webkit-border-radius: 20px 5px 20px 5px;
+
+
+	border-radius: 10px 5px 10px 5px;
+	margin: 0px 5px 10px 5px;
+	padding: 0px 10px 0px 10px;
+}
